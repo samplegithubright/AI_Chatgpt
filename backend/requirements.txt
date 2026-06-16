@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain-ollama
+langgraph
+pydantic
+python-dotenv
+motor
+python-jose[cryptography]
+bcrypt
+pillow
+wikipedia
+duckduckgo-search
+langchain-community
+beautifulsoup4
